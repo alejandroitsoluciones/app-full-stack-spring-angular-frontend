@@ -1,0 +1,10 @@
+.custom-card {
+    width: 380px;
+    max-width: 100%;
+    background-color: gainsboro;
+}
+
+.user-icon {
+    font-size: 100px;
+    color: red;
+}
